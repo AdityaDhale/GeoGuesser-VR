@@ -2,6 +2,10 @@
 
 An immersive, hands-first 360° street view and world landmark geographic exploration game built for WebXR and Meta Quest devices using Meta's **Immersive Web SDK (IWSDK)**.
 
+## 🌐 Live Demo
+
+Play the app here: [GeoGuesser VR](https://geoguesser-lemon.vercel.app/)
+
 ---
 
 ## 🏆 Project Highlights
@@ -16,7 +20,7 @@ An immersive, hands-first 360° street view and world landmark geographic explor
 ## ✨ Features
 
 ### 1. High-Resolution 360° Photospheres & Panoramic Environments
-* Stand directly inside iconic world locations across **France (Paris)**, **Russia (Moscow & Saint Petersburg)**, **India (Agra & Mumbai)**, **United States of America**, and famous world heritage monuments.
+* Stand directly inside iconic world locations across **France (Paris)**, **Russia (Moscow & Saint Petersburg)**, **India (Agra & Mumbai)**, **United States of America**, and famous world heritage locations across **South America**, **Africa**, **Oceania**, and **Europe**.
 * Dual-layer rendering: Instant procedural equirectangular projection with road markings and landmark silhouettes, overlaid with high-resolution photographic 360° panoramas.
 * Authentic street view visual cues: Nadir camera blur, ground-projected compass ring, road navigation directional chevrons, and localized street signs in Cyrillic, Devanagari, French, and English.
 
@@ -28,7 +32,7 @@ An immersive, hands-first 360° street view and world landmark geographic explor
 * **Zero Controllers Needed:** Complete end-to-end hand tracking (`XRHand`) pinch, point, and tap support.
 * **Comfort Snap-Turn:** Rotate your viewpoint 45° left or right with a single tap to inspect surroundings without physical neck strain.
 * **Binoculars Zoom:** Toggle 2× optical magnification to examine distant architecture, license plates, and environmental hints.
-* **Minimizeable Floating HUD:** Click the **Minimize** button to collapse bulky controls into a slim lap-level dashboard, giving you an unobstructed 360° panoramic view while keeping country choices and the confirm button right at your fingertips.
+* **Minimizeable Floating HUD:** Click the **Minimize** button to collapse bulky controls into a slim lap-level dashboard, giving you an unobstructed 360° panoramic view while keeping country choices and scoring accessible.
 
 ### 4. High-Contrast Accessible Spatial UI
 * Solid white cards with bold black text (`#000000`) for maximum legibility in virtual reality.
